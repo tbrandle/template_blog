@@ -22,6 +22,7 @@ style:
   tint_color: 'rgba(0,0,0,0.0)'
 start_time: '00:00'
 something_boolean: true
+_date: 
 
 
 cta:
