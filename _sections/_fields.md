@@ -20,6 +20,7 @@ style:
       type: null  
       posterurl_path: null  
   tint_color: 'rgba(0,0,0,0.0)'
+  start_time:
 
 cta:
   headline:
