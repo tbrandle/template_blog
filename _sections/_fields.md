@@ -20,8 +20,9 @@ style:
       type: null  
       posterurl_path: null  
   tint_color: 'rgba(0,0,0,0.0)'
-  
-start_time: '00:00:00'
+start_time: '00:00'
+something_boolean: true
+
 
 cta:
   headline:
