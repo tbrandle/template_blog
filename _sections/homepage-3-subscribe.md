@@ -8,7 +8,7 @@ style:
   class: alt
   media:
     img:
-      url_path: upload/image/svg+xml/1517954111166_url_path_browser.svg
+      url_path: upload/image/png/1517954244249_url_path_users.png
       pattern: false
       parallax: true
       overlay: null
