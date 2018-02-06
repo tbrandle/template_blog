@@ -5,7 +5,7 @@ head:
   subtitle: >-
     Welcome to your story, backed by the most robust static publishing platform
     ever created.
-  img_path: upload/image/png/1517949670083_img_path_avatar.png
+  img_path: upload/image/svg+xml/1517949839400_img_path_browser.svg
 style:
   id: hero
   class: jumbotron image-tagline bgclear fullscreen
