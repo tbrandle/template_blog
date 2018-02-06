@@ -3,7 +3,7 @@ location: null
 head:
   title: null
   subtitle: null
-  img_path: null
+  img_path: upload/image/svg+xml/1517935648880_img_path_back (1).svg
 style:
   id: null
   class: null
