@@ -1,30 +1,32 @@
 ---
-location: "homepage"
+location: homepage - edited
 head:
-  title: 'Newsletter Signup'
-  subtitle: 'Collect subscribers to send to your email marketing software.'
+  title: Newsletter Signup
+  subtitle: Collect subscribers to send to your email marketing software.
 style:
-  id: 'subscribe'
-  class: 'alt'
+  id: subscribe
+  class: alt
   media:
     img:
-      url_path:
+      url_path: upload/image/svg+xml/1517954111166_url_path_browser.svg
       pattern: false
       parallax: true
       overlay: null
       blur: false
     video:
       url_path: null
-      type: null  
-      posterurl_path: null  
+      type: null
+      posterurl_path: null
   sectioncolor: ''
-  tint_color: 'rgba(0,0,0,0.0)'  
+  tint_color: 'rgba(0,0,0,0.0)'
 cta:
-  headline:
-  btnText:
-  btnType:
-  btnLink:
-  subtext:
+  headline: null
+  btnText: null
+  btnType: null
+  btnLink: null
+  subtext: null
+
 ---
 
-{% include widgets/subscriber-form.html %}
+markdown
+
