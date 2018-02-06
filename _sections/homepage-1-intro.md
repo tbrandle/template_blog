@@ -11,7 +11,7 @@ style:
   class: jumbotron image-tagline bgclear fullscreen
   media:
     img:
-      url_path: /img/backgrounds/author.jpg
+      url_path: upload/image/png/1517949863018_url_path_cardiogram.png
       pattern: false
       parallax: true
       overlay: dark
