@@ -1,11 +1,11 @@
 ---
-location: Homepage
+location: Homepage this was edited
 head:
   title: The Plot Thickens
   subtitle: >-
     Welcome to your story, backed by the most robust static publishing platform
     ever created.
-  img_path: upload/image/svg+xml/1517949839400_img_path_browser.svg
+  img_path: upload/image/jpeg/1519092159836_img_path_20161210_113915.jpg
 style:
   id: hero
   class: jumbotron image-tagline bgclear fullscreen
