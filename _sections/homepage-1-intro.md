@@ -1,5 +1,5 @@
 ---
-location: homepage-edited
+location: Homepage
 head:
   title: The Plot Thickens
   subtitle: >-
