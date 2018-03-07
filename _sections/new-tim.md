@@ -5,7 +5,7 @@ head:
   subtitle: asdfasdf
   img_path: upload/image/svg+xml/1519146403277_img_path_browser.svg
 style:
-  id: null
+  id: defwefewffe
   class: null
   font_color: null
   media:
