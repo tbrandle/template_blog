@@ -1,4 +1,4 @@
-# Just a Blog Template
+# Test template blog for open source collection editor
 
 'Just a Blog' is a Jeykll blogging template designed for use on [BowTie.io](https://bowtie.io). This template is meant as a learning resource and is compatible with other BowTie components and templates.
 
