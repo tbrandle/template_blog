@@ -1,31 +1,33 @@
 ---
-location: 'about'
+location: testing the edit on recursive
 head:
   title: About
-  subtitle:
+  subtitle: null
 style:
-  id: 'aboutus'
+  id: aboutus
   class: null
   media:
     img:
-      url_path:
+      url_path: null
       pattern: false
       parallax: false
       overlay: null
       blur: false
     video:
       url_path: null
-      type: null  
-      posterurl_path: null  
-  sectioncolor:
-  tint_color: 'rgba(0,0,0,0.0)'  
+      type: null
+      posterurl_path: null
+  sectioncolor: null
+  tint_color: 'rgba(0,0,0,0.0)'
 cta:
-  headline:
-  btnText:
-  btnType:
-  btnLink:
-  subtext:
+  headline: null
+  btnText: null
+  btnType: null
+  btnLink: null
+  subtext: null
+
 ---
+
 
 Welcome to your [BowTie](https://bowtie.io)  site. The BowTie frontend makes it easy to build sites, blogs, or static apps using hosted user authentication and Jekyll. This page is generated from `about.md` in your root directory. Please install the [gem](https://github.com/bowtie-io/bowtie-iobowtie-io) to develop locally.
 ​
@@ -47,3 +49,4 @@ For more information, read the our _Getting Started_ series:
 ​
 You can learn more about customizing your templates and theme by reading the [BowTie Docs](https://bowtie.io/docs) , as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 ​
+
