@@ -22,11 +22,12 @@ style:
 cta:
   headline: null
   btnText: null
-  btnType: null
+  btnType: Here is a button
   btnLink: null
   subtext: null
 
 ---
+
 
 
 Welcome to your [BowTie](https://bowtie.io)  site. The BowTie frontend makes it easy to build sites, blogs, or static apps using hosted user authentication and Jekyll. This page is generated from `about.md` in your root directory. Please install the [gem](https://github.com/bowtie-io/bowtie-iobowtie-io) to develop locally.
@@ -49,4 +50,5 @@ For more information, read the our _Getting Started_ series:
 ​
 You can learn more about customizing your templates and theme by reading the [BowTie Docs](https://bowtie.io/docs) , as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 ​
+
 
