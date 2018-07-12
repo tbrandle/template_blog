@@ -32,12 +32,4 @@ cta:
   subtext: null
 
 ---
-
-
-
-
-markdown
-
-
-
-
+<p>markdown</p>
