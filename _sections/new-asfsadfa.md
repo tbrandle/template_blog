@@ -3,7 +3,9 @@ location: Timmmmmmmayt
 head:
   title: null
   subtitle: null
-  img_path: null
+  img_path: >-
+    upload/image/png/1531434277777_img_path_Screen Shot 2018-02-28 at 12.34.01
+    PM.png
 style:
   id: null
   class: null
