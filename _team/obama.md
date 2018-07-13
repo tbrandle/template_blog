@@ -1,6 +1,6 @@
 ---
-name: Jane
-displayName: Jane Smith
+name: Obama
+displayName: yo mama
 avatar_path: null
 gravatar: null
 jobTitle: null
@@ -11,4 +11,4 @@ github: null
 linkedin: null
 
 ---
-This is a test for obama
+This is Obamas page
