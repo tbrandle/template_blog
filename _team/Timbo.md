@@ -11,20 +11,4 @@ github: null
 linkedin: null
 
 ---
-
-
-
-
-
-
-
-
-markdown
-
-
-
-
-
-
-
-
+Timo
