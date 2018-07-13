@@ -11,6 +11,4 @@ github: null
 linkedin: null
 
 ---
-
-markdown
-
+This is a test for obama
