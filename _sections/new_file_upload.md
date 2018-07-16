@@ -10,7 +10,9 @@ style:
   font_color: null
   media:
     img:
-      url_path: null
+      url_path: >-
+        upload/image/png/1531776105939_url_path_Screen Shot 2018-02-28 at
+        12.34.01 PM.png
       pattern: false
       parallax: false
       overlay: null
@@ -32,4 +34,6 @@ cta:
   subtext: null
 
 ---
+
 undefined
+
