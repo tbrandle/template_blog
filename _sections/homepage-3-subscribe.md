@@ -8,7 +8,9 @@ style:
   class: alt
   media:
     img:
-      url_path: upload/image/png/1517954531463_url_path_avatar.png
+      url_path: >-
+        upload/image/png/1531858372027_url_path_Screen Shot 2018-02-28 at
+        12.34.01 PM.png
       pattern: false
       parallax: true
       overlay: null
@@ -28,5 +30,7 @@ cta:
 
 ---
 
+
 markdown
+
 
