@@ -9,8 +9,8 @@ style:
   media:
     img:
       url_path: >-
-        upload/image/png/1531863556861_url_path_Screen Shot 2018-02-26 at
-        2.05.16 PM.png
+        upload/image/png/1531863618430_url_path_Screen Shot 2018-02-28 at
+        12.34.01 PM.png
       pattern: false
       parallax: false
       overlay: null
@@ -32,5 +32,7 @@ cta:
 
 
 
+
 {% include map.html %}
+
 
