@@ -9,8 +9,8 @@ style:
   media:
     img:
       url_path: >-
-        upload/image/png/1531858372027_url_path_Screen Shot 2018-02-28 at
-        12.34.01 PM.png
+        upload/image/png/1531858564621_url_path_Screen Shot 2017-10-30 at
+        5.01.54 PM.png
       pattern: false
       parallax: true
       overlay: null
@@ -31,6 +31,8 @@ cta:
 ---
 
 
+
 markdown
+
 
 
