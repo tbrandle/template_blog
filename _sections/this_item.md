@@ -3,7 +3,9 @@ location: null
 head:
   title: null
   subtitle: null
-  img_path: img/browser.svg
+  img_path: >-
+    upload/image/png/1531847672729_img_path_Screen Shot 2018-02-28 at 12.34.01
+    PM.png
 style:
   id: null
   class: null
@@ -33,5 +35,7 @@ cta:
 
 ---
 
+
 markdown
+
 
