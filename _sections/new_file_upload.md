@@ -13,8 +13,8 @@ style:
   media:
     img:
       url_path: >-
-        upload/image/png/1531776105939_url_path_Screen Shot 2018-02-28 at
-        12.34.01 PM.png
+        upload/image/png/1531856927196_url_path_Screen Shot 2018-03-15 at
+        1.57.59 PM.png
       pattern: false
       parallax: false
       overlay: null
@@ -38,6 +38,8 @@ cta:
 ---
 
 
+
 undefined
+
 
 
