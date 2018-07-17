@@ -3,7 +3,9 @@ location: null
 head:
   title: something
   subtitle: null
-  img_path: upload/image/png/1531340869424_img_path_Screenshot (13).png
+  img_path: >-
+    upload/image/png/1531849077652_img_path_Screen Shot 2018-02-28 at 12.34.01
+    PM.png
 style:
   id: null
   class: null
@@ -32,4 +34,6 @@ cta:
   subtext: null
 
 ---
+
 undefined
+
