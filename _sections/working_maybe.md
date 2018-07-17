@@ -3,7 +3,9 @@ location: Woring
 head:
   title: sdf
   subtitle: sdf
-  img_path: null
+  img_path: >-
+    upload/image/png/1531860383073_img_path_Screen Shot 2018-02-28 at 12.34.01
+    PM.png
 style:
   id: null
   class: null
@@ -32,4 +34,6 @@ cta:
   subtext: null
 
 ---
+
 undefined
+
