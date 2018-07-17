@@ -4,7 +4,7 @@ head:
   title: asfadsfa
   subtitle: asdfaf
   img_path: >-
-    upload/image/png/1531848108446_img_path_Screen Shot 2018-02-28 at 12.34.01
+    upload/image/png/1531849381045_img_path_Screen Shot 2018-02-26 at 2.05.16
     PM.png
 style:
   id: afaf
@@ -35,5 +35,7 @@ cta:
 
 ---
 
+
 undefined
+
 
