@@ -3,7 +3,9 @@ location: null
 head:
   title: asfadsfa
   subtitle: asdfaf
-  img_path: upload/image/png/1531341162237_img_path_Screenshot (13).png
+  img_path: >-
+    upload/image/png/1531848108446_img_path_Screen Shot 2018-02-28 at 12.34.01
+    PM.png
 style:
   id: afaf
   class: null
@@ -32,4 +34,6 @@ cta:
   subtext: null
 
 ---
+
 undefined
+
