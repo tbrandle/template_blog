@@ -1,5 +1,5 @@
 ---
-name: Nick
+name: some guy
 displayName: Jane Smith
 avatar_path: null
 gravatar: null
@@ -12,5 +12,7 @@ linkedin: null
 
 ---
 
+
 markdown
+
 
