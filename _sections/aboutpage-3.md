@@ -18,7 +18,7 @@ style:
     video:
       url_path: null
       type: null
-      posterurl_path: null
+      posterurl_path: upload/image/jpeg/1544649407558_posterurl_path_20170711_191543.jpg
   sectioncolor: null
   tint_color: 'rgba(0,0,0,0.0)'
 cta:
@@ -40,7 +40,9 @@ cta:
 
 
 
+
 {% include map.html %}
+
 
 
 
