@@ -8,7 +8,7 @@ style:
   class: null
   media:
     img:
-      url_path: null
+      url_path: upload//1544643984005_url_path_charlie_viking
       pattern: false
       parallax: false
       overlay: null
@@ -18,7 +18,7 @@ style:
       type: null
       posterurl_path: null
   sectioncolor: null
-  tint_color: 'rgba(0,0,0,0.0)'
+  tint_color: 'rgb(72, 13, 13)'
 cta:
   headline: null
   btnText: null
@@ -27,6 +27,7 @@ cta:
   subtext: null
 
 ---
+
 
 
 
@@ -51,6 +52,7 @@ For more information, read the our _Getting Started_ series:
 ​
 You can learn more about customizing your templates and theme by reading the [BowTie Docs](https://bowtie.io/docs) , as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 ​
+
 
 
 
