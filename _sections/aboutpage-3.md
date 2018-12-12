@@ -12,9 +12,9 @@ style:
         upload/image/png/1531863618430_url_path_Screen Shot 2018-02-28 at
         12.34.01 PM.png
       pattern: 'false'
-      parallax: true
+      parallax: false
       overlay: null
-      blur: true
+      blur: false
     video:
       url_path: null
       type: null
@@ -39,7 +39,9 @@ cta:
 
 
 
+
 {% include map.html %}
+
 
 
 
