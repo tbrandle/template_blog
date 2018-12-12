@@ -1,5 +1,5 @@
 ---
-location: about
+location: about page edited
 head:
   title: null
   subtitle: null
@@ -34,7 +34,9 @@ cta:
 
 
 
+
 {% include map.html %}
+
 
 
 
