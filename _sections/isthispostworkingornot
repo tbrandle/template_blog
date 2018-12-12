@@ -7,7 +7,7 @@ head:
 style:
   id: null
   class: null
-  font_color: null
+  font_color: 'rgb(166, 22, 22)'
   media:
     img:
       url_path: null
@@ -19,7 +19,7 @@ style:
       url_path: null
       type: null
       posterurl_path: null
-  tint_color: 'rgba(0,0,0,0.0)'
+  tint_color: 'rgba(150, 33, 33, 0.91)'
 start_time: '00:00'
 something_boolean: true
 _date: null
@@ -32,4 +32,5 @@ cta:
   subtext: null
 
 ---
-undefined
+<p>undefined</p>
+
