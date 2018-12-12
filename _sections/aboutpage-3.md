@@ -14,7 +14,7 @@ style:
       pattern: 'false'
       parallax: true
       overlay: null
-      blur: true
+      blur: false
     video:
       url_path: null
       type: null
@@ -37,7 +37,9 @@ cta:
 
 
 
+
 {% include map.html %}
+
 
 
 
