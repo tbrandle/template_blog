@@ -8,9 +8,7 @@ style:
   class: ''
   media:
     img:
-      url_path: >-
-        upload/image/png/1544724931315_url_path_Screen Shot 2017-07-07 at
-        4.57.38 PM.png
+      url_path: upload/image/png/1544725003658_url_path_localhost_3000_login.png
       pattern: false
       parallax: true
       overlay: null
@@ -31,5 +29,7 @@ cta:
 ---
 
 
+
 {% include widgets/listposts.html %}
+
 
