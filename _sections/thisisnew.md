@@ -3,9 +3,7 @@ location: afasfdafd
 head:
   title: null
   subtitle: null
-  img_path: >-
-    upload/image/png/1531846427739_img_path_Screen Shot 2017-11-30 at 11.07.19
-    AM.png
+  img_path: upload/image/png/1544723482802_img_path_2017-06-30 20.55.10.png
 style:
   id: null
   class: null
@@ -37,7 +35,9 @@ cta:
 
 
 
+
 markdown
+
 
 
 
