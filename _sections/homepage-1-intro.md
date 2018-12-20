@@ -12,8 +12,8 @@ style:
   media:
     img:
       url_path: upload/image/png/1517949863018_url_path_cardiogram.png
-      pattern: false
-      parallax: true
+      pattern: true
+      parallax: false
       overlay: dark
       blur: false
     video:
@@ -21,15 +21,17 @@ style:
       type: null
       posterurl_path: null
   sectioncolor: bgclear
-  tint_color: 'rgba(0,0,0,0.0)'
+  tint_color: 'rgba(201, 13, 13, 0.96)'
 cta:
   headline: null
-  btnText: <i class="fa fa-caret-down"></i>Read On
+  btnText: click me
   btnType: btn-transparent
   btnLink: '#posts'
   subtext: null
 
 ---
 
+
 markdown
+
 
