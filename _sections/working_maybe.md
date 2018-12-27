@@ -1,5 +1,5 @@
 ---
-location: Woring
+location: 'Denver, CO'
 head:
   title: sdf
   subtitle: sdf
@@ -9,12 +9,12 @@ head:
 style:
   id: null
   class: null
-  font_color: null
+  font_color: 'rgb(227, 57, 57)'
   media:
     img:
       url_path: null
-      pattern: false
-      parallax: false
+      pattern: true
+      parallax: true
       overlay: null
       blur: false
     video:
@@ -35,5 +35,7 @@ cta:
 
 ---
 
+
 undefined
+
 
