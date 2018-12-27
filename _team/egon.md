@@ -1,7 +1,7 @@
 ---
-name: egon
+name: egon EDITED
 displayName: Egon Spengler
-avatar_path: "/img/user1.png"
+avatar_path: /img/user1.png
 gravatar: ''
 jobTitle: Scientist
 bio: Ipsum lorem
@@ -11,3 +11,5 @@ github: github
 linkedin: in/francis
 
 ---
+
+
