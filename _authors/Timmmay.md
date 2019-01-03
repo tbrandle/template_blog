@@ -1,10 +1,10 @@
 ---
 name: Tim Brandle
-displayName: Tim Brandle
+displayName: Tim Brandled
 avatar_path: Tim Brandle
 gravatar: Tim Brandle
-email: Tim Brandle
-web: Tim Brandleasdfasdfa
+email: tim@bowtie.co
+web: timmmaayyy
 twitter: Tim Brandle
 facebook: Tim Brandle
 github: Tim Brandle
@@ -15,6 +15,8 @@ youtube: Tim Brandle
 
 ---
 
+
 <p>asdfafdasfsdfadsfasdfa edited</p>
+
 
 
