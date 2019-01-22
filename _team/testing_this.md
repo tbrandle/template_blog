@@ -11,5 +11,4 @@ github: sdfjiasdfjiajs.com
 linkedin: sdfjiasdfjiajs.com
 
 ---
-<p>asdfasfdsafdsfdasfdsfd</p>
 <p>This has been edited</p>
