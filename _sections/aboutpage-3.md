@@ -8,9 +8,7 @@ style:
   class: full-width
   media:
     img:
-      url_path: >-
-        upload/image/png/1531863618430_url_path_Screen Shot 2018-02-28 at
-        12.34.01 PM.png
+      url_path: upload/application/pdf/1548459520536_url_path_DentalInsuranceIdCard.pdf
       pattern: 'false'
       parallax: false
       overlay: null
@@ -41,7 +39,9 @@ cta:
 
 
 
+
 {% include map.html %}
+
 
 
 
