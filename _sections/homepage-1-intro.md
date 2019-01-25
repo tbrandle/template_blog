@@ -11,7 +11,7 @@ style:
   class: jumbotron image-tagline bgclear fullscreen
   media:
     img:
-      url_path: upload/image/png/1517949863018_url_path_cardiogram.png
+      url_path: upload/application/pdf/1548459809957_url_path_IdCard (1).pdf
       pattern: true
       parallax: false
       overlay: dark
@@ -32,6 +32,8 @@ cta:
 ---
 
 
+
 markdown
+
 
 
