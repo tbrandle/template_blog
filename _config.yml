@@ -76,3 +76,5 @@ collections:
     output: false
   sections:
     output: false
+  test:
+    output: false
