@@ -3,7 +3,7 @@ name: janeasdf
 displayName: Jane Smithasdf
 avatar_path: ''
 gravatar: tbrandle@fundacionadelante.org
-email: tbrandle@fundacionadelante.org
+email: null
 web: asdf
 twitter: asdf
 facebook: asdf
@@ -15,4 +15,3 @@ youtube: asdf
 
 ---
 <p>asdfasdfasdfadsfdsafds</p>
-
