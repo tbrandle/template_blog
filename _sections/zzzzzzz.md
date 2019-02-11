@@ -22,7 +22,7 @@ style:
   tint_color: 'rgba(0,0,0,0.0)'
 start_time: '04:00 AM'
 something_boolean: true
-_date: null
+_date: 02/12/2019
 file_path: null
 cta:
   headline: null
@@ -32,4 +32,6 @@ cta:
   subtext: null
 
 ---
+
 <p>this is a test</p>
+
