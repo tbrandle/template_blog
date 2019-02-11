@@ -1,35 +1,35 @@
 ---
-location: null
+location:
 head:
-  title: asdfsadf
-  subtitle: asdfadsf
-  img_path: null
+  title:
+  subtitle:
+  img_path:
 style:
-  id: null
-  class: null
-  font_color: null
+  id:
+  class:
+  font_color:
   media:
     img:
-      url_path: null
+      url_path:
       pattern: false
       parallax: false
-      overlay: null
+      overlay:
       blur: false
     video:
       url_path: null
-      type: null
-      posterurl_path: null
+      type: null  
+      posterurl_path: null  
   tint_color: 'rgba(0,0,0,0.0)'
-start_time: '01:00 AM'
+start_time: '00:00'
 something_boolean: true
-_date: null
-file_path: null
+_date: 
+file_path:
+
+
 cta:
-  headline: null
-  btnText: null
-  btnType: null
-  btnLink: null
-  subtext: null
-
+  headline:
+  btnText:
+  btnType:
+  btnLink:
+  subtext:
 ---
-
