@@ -20,7 +20,7 @@ style:
       type: null
       posterurl_path: null
   tint_color: 'rgba(0,0,0,0.0)'
-start_time: '00:00'
+start_time: '04:00 AM'
 something_boolean: true
 _date: null
 file_path: null
