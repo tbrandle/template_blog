@@ -1,35 +1,35 @@
 ---
-location:
+location: null
 head:
-  title:
-  subtitle:
-  img_path:
+  title: null
+  subtitle: null
+  img_path: null
 style:
-  id:
-  class:
-  font_color:
+  id: null
+  class: null
+  font_color: null
   media:
     img:
-      url_path:
+      url_path: null
       pattern: false
       parallax: false
-      overlay:
+      overlay: null
       blur: false
     video:
       url_path: null
-      type: null  
-      posterurl_path: null  
+      type: null
+      posterurl_path: null
   tint_color: 'rgba(0,0,0,0.0)'
 start_time: '00:00'
 something_boolean: true
-_date: 
-file_path:
-
-
+_date: null
+file_path: null
 cta:
-  headline:
-  btnText:
-  btnType:
-  btnLink:
-  subtext:
+  headline: null
+  btnText: null
+  btnType: null
+  btnLink: null
+  subtext: null
+
 ---
+<p>this is a test</p>
