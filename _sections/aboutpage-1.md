@@ -8,13 +8,13 @@ style:
   class: null
   media:
     img:
-      url_path: upload/application/pdf/1549048579762_url_path_IdCard (1).pdf
+      url_path: /upload/image/png/1549924401327_url_path_closed_envelope.png
       pattern: false
       parallax: false
       overlay: null
       blur: false
     video:
-      url_path: upload/text/csv/1549048597002_url_path_doctor_profiles (4).csv
+      url_path: /upload/image/png/1549924395001_url_path_open_envelope.png
       type: null
       posterurl_path: upload/text/csv/1549048618029_posterurl_path_surveys (7).csv
   sectioncolor: null
@@ -27,6 +27,7 @@ cta:
   subtext: null
 
 ---
+
 
 
 
@@ -55,6 +56,7 @@ For more information, read the our _Getting Started_ series:
 ​
 You can learn more about customizing your templates and theme by reading the [BowTie Docs](https://bowtie.io/docs) , as well as basic Jekyll usage documentation at [jekyllrb.com](http://jekyllrb.com/)
 ​
+
 
 
 
