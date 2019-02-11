@@ -1,8 +1,7 @@
 ---
 name: Charlie McClung
 displayName: charlie
-avatar_path: >-
-  upload/image/png/1548703083576_avatar_path_482bc49b6f9fecd8aa4443ca379bbd69.png
+avatar_path: /upload/image/png/1549905775959_avatar_path_avatar.png
 gravatar: 1985af848d639efd74c6af48f242cfa8
 email: charlie@bowtie.co
 web: 'https://charliemcclung.com'
@@ -15,4 +14,6 @@ linkedin: null
 youtube: null
 
 ---
+
 <p>CHAAARRRLIIEIEEEE JEEENNKKIINNNNSSSS</p>
+
