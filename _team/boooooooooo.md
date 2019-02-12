@@ -1,5 +1,5 @@
 ---
-name: this is the boo file
+name: testing reset
 displayName: asdfkfjkjf
 avatar_path: null
 gravatar: null
@@ -11,5 +11,4 @@ github: asdfkfjkjf.com
 linkedin: asdfkfjkjf.com
 
 ---
-<p>safdsfdsafsfd Final Test f</p>
 
