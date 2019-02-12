@@ -8,7 +8,7 @@ style:
   class: alt
   media:
     img:
-      url_path: /upload/image/png/1549999524134_url_path_closed_envelope.png
+      url_path: null
       pattern: false
       parallax: true
       overlay: null
@@ -31,7 +31,9 @@ cta:
 
 
 
+
 markdown
+
 
 
 
