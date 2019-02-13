@@ -1,7 +1,7 @@
 ---
 name: janeasdfj
 displayName: asdfJane Smith
-avatar_path: /upload/application/pdf/1550101937059_avatar_path_testPDF.pdf
+avatar_path: /upload/image/jpeg/1550102113941_avatar_path_photo_54MB.jpg
 gravatar: tbrandle53@gmail.com
 email: tbrandle53@gmail.com
 web: asdf
@@ -14,6 +14,8 @@ linkedin: asdf
 youtube: asdf
 
 ---
+
+
 
 
 
