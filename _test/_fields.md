@@ -6,4 +6,5 @@ testemail:
 testtwitter:
 testgithub:
 testlinkedin:
+img_path:
 ---
