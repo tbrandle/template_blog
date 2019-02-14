@@ -1,7 +1,7 @@
 ---
-name: janeasdfj
+name: janeasdf
 displayName: asdfJane Smith
-avatar_path: /upload/image/jpeg/1550102113941_avatar_path_photo_54MB.jpg
+avatar_path: ''
 gravatar: tbrandle53@gmail.com
 email: tbrandle53@gmail.com
 web: asdf
@@ -14,4 +14,4 @@ linkedin: asdf
 youtube: asdf
 
 ---
-<p>Test on new branch</p>
+<p>asdf hjhkjhkh test new branch</p>
