@@ -14,4 +14,6 @@ linkedin: asdf
 youtube: asdf
 
 ---
-<p>asdf MASTER BRANCH</p>
+<p>asdf MASTER BRANCH&nbsp;</p>
+<p>&nbsp;</p>
+<p>This is a test from collection editor</p>
