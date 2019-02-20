@@ -3,8 +3,7 @@ location: kjl;
 head:
   title: null
   subtitle: null
-  img_path: >-
-    /upload/image/jpeg/1550167809812_img_path_1550100067496_avatar_path_photo_54MB.jpg
+  img_path: /upload/image/svg+xml/1550701982871_img_path_spotify.svg
 style:
   id: null
   class: null
