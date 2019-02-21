@@ -6,7 +6,9 @@ testemail: null
 testtwitter: null
 testgithub: null
 testlinkedin: null
-img_path: /upload/image/svg+xml/1550776271531_img_path_spotify.svg
+img_path: >-
+  /upload/image/png/1550776558958_img_path_Screen Shot 2019-01-11 at 11.24.12
+  PM.png
 tags:
   - tag1
   - tag2
@@ -14,6 +16,8 @@ tags:
   - tag4
 
 ---
+
+
 
 
 
