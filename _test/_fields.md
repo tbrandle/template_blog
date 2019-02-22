@@ -6,7 +6,7 @@ testemail:
 testtwitter:
 testgithub:
 testlinkedin:
-img_path:
+img_path: something
 tags: []
   
 ---
