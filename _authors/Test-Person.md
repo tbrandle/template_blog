@@ -1,7 +1,9 @@
 ---
 name: jane
 displayName: Jane Smith
-avatar_path: /upload/image/png/1551122492211_avatar_path_derp-avatar.png
+avatar_path: >-
+  /upload/image/png/1551135958920_avatar_path_Screen Shot 2019-01-11 at 11.24.12
+  PM.png
 gravatar: 1985af848d639efd74c6af48f242cfa8
 email: null
 web: null
@@ -14,4 +16,6 @@ linkedin: null
 youtube: null
 
 ---
+
+
 
