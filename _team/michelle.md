@@ -2,7 +2,7 @@
 name: MMEEEEEEEE
 displayName: Jane Smith
 avatar_path: >-
-  /upload/application/vnd.openxmlformats-officedocument.wordprocessingml.document/1551304590223_avatar_path_SUBLEASEAGREEMENTfor2144.docx
+  /upload/application/pdf/1551304644416_avatar_path_Your_Electronic_Document_Package.pdf
 gravatar: null
 jobTitle: null
 bio: null
@@ -12,13 +12,4 @@ github: null
 linkedin: null
 
 ---
-
-
-
-
-<p>Hi my name is <code><del><strong><em><ins>Michelle </ins></em></strong></del></code><del><strong><em><ins> </ins></em></strong></del>  👻</p>
-
-
-
-
-
+<p>Hi my name is <code><del><strong><em><ins>Michelle </ins></em></strong></del></code><del><ins> </ins></del> 👻</p>
