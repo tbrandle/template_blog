@@ -15,6 +15,4 @@ tags:
   - tag4
 
 ---
-
-<p>this is an &mdash;</p>
-
+<p>this is an &amp;mdash; em dash</p>
