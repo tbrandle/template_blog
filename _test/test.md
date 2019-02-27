@@ -6,8 +6,7 @@ testemail: null
 testtwitter: null
 testgithub: null
 testlinkedin: null
-img_path: >-
-  /upload/application/vnd.openxmlformats-officedocument.wordprocessingml.document/1551304558384_img_path_WebsiteTermsandConditionsmarketingwebsite.docx
+img_path: /upload/application/pdf/1551308496702_img_path_IdCard1.pdf
 tags:
   - tag1
   - tag2
@@ -15,6 +14,8 @@ tags:
   - tag4
 
 ---
+
+
 
 
 
