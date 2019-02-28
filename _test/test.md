@@ -15,6 +15,6 @@ tags:
   - tag4
 
 ---
-<p>this is an &mdash; em dash &amp;mdash;&nbsp;</p>
+<p>this is an &mdash; em dash &amp;mdash; this isn't working</p>
 <p>&nbsp;</p>
 <p>***testing markdown</p>
