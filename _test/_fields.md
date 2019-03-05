@@ -7,6 +7,10 @@ testtwitter:
 testgithub:
 testlinkedin:
 img_path: something
+categories:
+  thing1
+  thing2
+  thing3
 recommendations:
   -
     title: "<h4 class='no-margin'>Recommendation #1:</h4> Encourage orderly growth and development."
