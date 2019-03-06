@@ -28,9 +28,7 @@ recommendations:
       functional and desirable.
     image: image-1
     image-2: image-number-2
-  - title: >-
-      <h4 class='no-margin'>Recommendation #2:</h4> Align the Zoning Code with
-      the Future Land Use Plan.
+  - title: '#2 Title'
     content: >-
       The primary function of the Future Land Use Plan is to guide and inform
       zoning practices in the City.  The Future Land Use Plan ensures that
@@ -45,8 +43,8 @@ recommendations:
       property values, and to give clearer definition to the spaces within the
       community. The City Planning Department will oversee alignment of the
       Zoning Code with the Future Land Use Plan.
-    image: '56'
-    image-2: '78'
+    image: '1234'
+    image-2: '5678'
   - title: >-
       <h4 class='no-margin'>Recommendation #3:</h4> Promote Trail-oriented
       development and connectivity to natural assets.
@@ -103,6 +101,8 @@ recommendations:
     image-2: null
 
 ---
+
+
 
 
 
