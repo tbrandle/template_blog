@@ -26,8 +26,8 @@ recommendations:
       and development seeks to preserve the functional and desirable character
       of assets present today, while encouraging new development which is also
       functional and desirable.
-    image: asdf
-    image-2: asdf
+    image: asdf12
+    image-2: asdf34
   - title: >-
       <h4 class='no-margin'>Recommendation #2:</h4> Align the Zoning Code with
       the Future Land Use Plan.
@@ -45,8 +45,8 @@ recommendations:
       property values, and to give clearer definition to the spaces within the
       community. The City Planning Department will oversee alignment of the
       Zoning Code with the Future Land Use Plan.
-    image: null
-    image-2: null
+    image: '56'
+    image-2: '78'
   - title: >-
       <h4 class='no-margin'>Recommendation #3:</h4> Promote Trail-oriented
       development and connectivity to natural assets.
@@ -64,8 +64,8 @@ recommendations:
       properties should capture the potential provided by these natural assets,
       while minimizing the impact that development can have on environmentally
       sensitive areas.
-    image: null
-    image-2: null
+    image: '9'
+    image-2: '0'
   - title: >-
       <h4 class='no-margin'>Recommendation #4:</h4> Respect and respond to
       topography and geographic constraints when planning new development and
@@ -103,4 +103,6 @@ recommendations:
     image-2: null
 
 ---
+
+
 
