@@ -11,6 +11,15 @@ tags:
   thing1
   thing2
   thing3
+stuff:
+  - - things: values
+      tags: [tag1, tag2, tag3]
+    - stuff: things
+      img_path:
+  - - things: more values
+      tags: [tag4, tag5, tag6]
+    - more_stuff: another thing
+      img_path:
 
 ---
 
