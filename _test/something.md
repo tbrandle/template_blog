@@ -16,7 +16,7 @@ stuff:
         - new tag
     - stuff: things for stuff
       img_path: /upload/image/png/1551890948281_img_path_bowtie_logo.png
-  - - things: more values
+  - - things: more values!
       tags:
         - tag4
         - tag5
@@ -26,6 +26,8 @@ stuff:
         /upload/image/png/1551890962788_img_path_482bc49b6f9fecd8aa4443ca379bbd69.png
 
 ---
+
+
 
 
 
