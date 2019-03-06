@@ -28,7 +28,7 @@ recommendations:
       functional and desirable.
     image: image-1
     image-2: image-number-2
-  - title: '#2 Title'
+  - title: '#2 Title with changes'
     content: >-
       The primary function of the Future Land Use Plan is to guide and inform
       zoning practices in the City.  The Future Land Use Plan ensures that
@@ -101,6 +101,8 @@ recommendations:
     image-2: null
 
 ---
+
+
 
 
 
