@@ -26,8 +26,8 @@ recommendations:
       and development seeks to preserve the functional and desirable character
       of assets present today, while encouraging new development which is also
       functional and desirable.
-    image: asdf12
-    image-2: asdf34
+    image: image-1
+    image-2: image-number-2
   - title: >-
       <h4 class='no-margin'>Recommendation #2:</h4> Align the Zoning Code with
       the Future Land Use Plan.
@@ -103,6 +103,8 @@ recommendations:
     image-2: null
 
 ---
+
+
 
 
 
