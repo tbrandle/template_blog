@@ -7,7 +7,10 @@ testtwitter: null
 testgithub: null
 testlinkedin: null
 img_path: something
-categories: thing1 thing2 thing3
+categories:
+  - thing1
+  - thing2
+  - thing3
 recommendations:
   - title: >-
       <h2 class='no-margin'>Recommendation #1:</h2> Encourage orderly growth and
