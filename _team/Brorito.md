@@ -1,7 +1,7 @@
 ---
 name: Jane
 displayName: Jane Smith
-avatar_path: null
+avatar_path: /upload/image/png/1552084194464_avatar_path_derp-avatar.png
 gravatar: null
 jobTitle: null
 bio: null
@@ -11,4 +11,6 @@ github: null
 linkedin: null
 
 ---
+
+
 
