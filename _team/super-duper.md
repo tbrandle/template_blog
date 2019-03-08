@@ -1,7 +1,7 @@
 ---
-name: Super
-displayName: Duper
-avatar_path: /upload/image/png/1552084344609_avatar_path_avatar.png
+name: Supers
+displayName: Dupers
+avatar_path: /upload/image/png/1552084456300_avatar_path_derp-avatar.png
 gravatar: null
 jobTitle: null
 bio: null
@@ -11,4 +11,6 @@ github: null
 linkedin: null
 
 ---
+
+
 
