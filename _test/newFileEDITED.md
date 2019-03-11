@@ -6,7 +6,7 @@ testemail: null
 testtwitter: null
 testgithub: null
 testlinkedin: null
-img_path: something
+img_path: /upload/image/png/1552346345917_img_path_482bc49b6f9fecd8aa4443ca379bbd69.png
 categories: thing1 thing2 thing3
 recommendations:
   - title: >-
@@ -100,4 +100,4 @@ recommendations:
     image-2: null
 
 ---
-
+<p><img src="https://raw.githubusercontent.com/tbrandle/template_blog/master/upload/800px-Pizigani_1367_Chart_10MB.jpg" alt="sdfsdf" width="800" height="547" /></p>
