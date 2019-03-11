@@ -1,5 +1,5 @@
 ---
-name: jane
+name: Tim
 displayName: Jane Smith
 avatar_path: ''
 gravatar: tbrandle@fundacionadelante.org
