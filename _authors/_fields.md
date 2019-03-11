@@ -1,6 +1,6 @@
 ---
-name: "jane"
-displayName: "Jane Smith"
+name: "Tim"
+displayName: "Tim Brandle"
 avatar_path: ""
 gravatar: "1985af848d639efd74c6af48f242cfa8"  # use hash only (e.g. '1985af848d639efd74c6af48f242cfa8')
 email: 
