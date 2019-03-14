@@ -78,3 +78,6 @@ collections:
     output: false
   test:
     output: false
+  test_branch_master:
+    output: false
+
