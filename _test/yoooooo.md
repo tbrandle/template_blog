@@ -6,7 +6,7 @@ testemail: null
 testtwitter: null
 testgithub: null
 testlinkedin: null
-img_path: something
+img_path: /upload/image/png/1552677213760_img_path_boldbetties.png
 categories: thing1 thing2 thing3
 recommendations:
   - title: >-
@@ -100,4 +100,6 @@ recommendations:
     image-2: null
 
 ---
+
+
 
