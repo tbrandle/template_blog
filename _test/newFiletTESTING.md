@@ -96,7 +96,7 @@ recommendations:
       support these goals. Measures that accommodate revitalization efforts and
       business vitality should be employed in commercial areas where
       preservation of existing businesses of value to the community.
-    image: null
+    image: sdf
     image-2: null
 
 ---
