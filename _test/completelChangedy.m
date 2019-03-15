@@ -1,5 +1,5 @@
 ---
-testName: Janes
+testName: JaMes
 testjobTitle: test
 testbio: null
 testemail: null
