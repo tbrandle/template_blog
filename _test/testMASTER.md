@@ -100,6 +100,6 @@ recommendations:
     image-2: null
 
 ---
+
 <p>This is markdown</p>
-<p>---</p>
-<p>this should render, but might not.</p>
+<p>
