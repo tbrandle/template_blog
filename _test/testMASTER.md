@@ -6,7 +6,7 @@ testemail: null
 testtwitter: null
 testgithub: null
 testlinkedin: null
-img_path: something
+img_path: /upload/image/png/1553544446396_img_path_boldbetties.png
 categories: thing1 thing2 thing3
 recommendations:
   - title: >-
@@ -101,5 +101,7 @@ recommendations:
 
 ---
 
+
 <p>This is markdown</p>
 <p>
+
