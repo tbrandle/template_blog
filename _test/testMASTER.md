@@ -23,8 +23,8 @@ recommendations:
       and development seeks to preserve the functional and desirable character
       of assets present today, while encouraging new development which is also
       functional and desirable.
-    image: null
-    image-2: null
+    image_path: null
+    image-2_path: null
   - title: >-
       <h4 class='no-margin'>Recommendation #2:</h4> Align the Zoning Code with
       the Future Land Use Plan.
