@@ -23,7 +23,7 @@ recommendations:
       and development seeks to preserve the functional and desirable character
       of assets present today, while encouraging new development which is also
       functional and desirable.
-    image_path: null
+    image_path: /upload/image/png/1553544539335_image_path_boldbetties.png
     image-2_path: null
   - title: >-
       <h4 class='no-margin'>Recommendation #2:</h4> Align the Zoning Code with
@@ -103,7 +103,9 @@ recommendations:
 
 
 
+
 <p>This is markdown</p>
 <p>
+
 
 
