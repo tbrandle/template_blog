@@ -24,7 +24,7 @@ recommendations:
       of assets present today, while encouraging new development which is also
       functional and desirable.
     image_path: /upload/image/png/1553544539335_image_path_boldbetties.png
-    image-2_path: null
+    image-2_path: /upload/image/jpeg/1553544582910_image-2_path_JPEG_example_JPG_RIP_100.jpg
   - title: >-
       <h4 class='no-margin'>Recommendation #2:</h4> Align the Zoning Code with
       the Future Land Use Plan.
@@ -104,8 +104,10 @@ recommendations:
 
 
 
+
 <p>This is markdown</p>
 <p>
+
 
 
 
