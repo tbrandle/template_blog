@@ -3,7 +3,7 @@ location: asdf
 head:
   title: asdf
   subtitle: asdf
-  img_path: /upload/image/png/1554136266134_img_path_boldbetties.png
+  img_path: /upload/image/jpeg/1554136280951_img_path_rsz_head_shot.jpg
 style:
   id: asdf
   class: asdf
@@ -32,6 +32,8 @@ cta:
   subtext: asdf
 
 ---
+
+
 
 
 
