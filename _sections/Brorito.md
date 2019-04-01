@@ -3,7 +3,7 @@ location: kjl;
 head:
   title: null
   subtitle: null
-  img_path: upload/application/pdf/1548459551551_img_path_MedicalInsuranceIdCard.pdf
+  img_path: /upload/image/png/1554136200912_img_path_boldbetties.png
 style:
   id: null
   class: null
@@ -32,5 +32,7 @@ cta:
   subtext: null
 
 ---
+
 <p>nklljl</p>
+
 
