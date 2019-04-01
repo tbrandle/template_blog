@@ -1,7 +1,7 @@
 ---
 name: guy one
 displayName: Jane Smith
-avatar_path: null
+avatar_path: /upload/image/png/1554133901254_avatar_path_boldbetties.png
 gravatar: null
 jobTitle: null
 bio: null
@@ -12,5 +12,7 @@ linkedin: null
 
 ---
 
+
 markdown
+
 
