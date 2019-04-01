@@ -3,7 +3,7 @@ location: kjl;
 head:
   title: null
   subtitle: null
-  img_path: /upload/image/png/1554136200912_img_path_boldbetties.png
+  img_path: /upload/image/jpeg/1554136222088_img_path_rsz_head_shot.jpg
 style:
   id: null
   class: null
@@ -33,6 +33,8 @@ cta:
 
 ---
 
+
 <p>nklljl</p>
+
 
 
