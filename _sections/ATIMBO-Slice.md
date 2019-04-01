@@ -3,7 +3,7 @@ location: asdf
 head:
   title: asdf
   subtitle: asdf
-  img_path: asdf
+  img_path: /upload/image/jpeg/1554136244384_img_path_rsz_head_shot.jpg
 style:
   id: asdf
   class: asdf
@@ -32,4 +32,6 @@ cta:
   subtext: asdf
 
 ---
+
+
 
