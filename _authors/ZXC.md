@@ -1,7 +1,7 @@
 ---
 name: Tim
 displayName: Tim Brandle
-avatar_path: ''
+avatar_path: null
 gravatar: 1985af848d639efd74c6af48f242cfa8
 email: null
 web: null
