@@ -1,28 +1,18 @@
 ---
-testName: Jane
-testjobTitle: tester
+testName: null
+testjobTitle: null
 testbio: null
 testemail: null
 testtwitter: null
 testgithub: null
 testlinkedin: null
 img_path: /upload/image/png/1553544463786_img_path_Houndstoothcomponentheirarchy.png
-categories: thing1 thing2 thing3
+categories: null
 recommendations:
   - title: >-
       <h4 class='no-margin'>Recommendation #1:</h4> Encourage orderly growth and
       development.
-    content: >-
-      Orderly growth and development requires a balance of residential,
-      commercial, and employment-oriented uses.  This encourages a sensible
-      mixture (rather than segregation) of uses to help create vibrant areas
-      throughout the city that offer a range of jobs and daily services and
-      amenities in close proximity to where people live.  It also requires
-      aggregation of activity to create centers, as well as compatible
-      transitions between neighboring properties.  In this sense, orderly growth
-      and development seeks to preserve the functional and desirable character
-      of assets present today, while encouraging new development which is also
-      functional and desirable.
+    content: null
     image_path: /upload/image/png/1553544539335_image_path_boldbetties.png
     image-2_path: /upload/image/jpeg/1553544582910_image-2_path_JPEG_example_JPG_RIP_100.jpg
   - title: >-
@@ -100,4 +90,4 @@ recommendations:
     image-2: null
 
 ---
-
+<p>nj</p>
