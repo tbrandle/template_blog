@@ -9,12 +9,12 @@ style:
   media:
     img:
       url_path: /upload/image/png/1549924401327_url_path_closed_envelope.png
-      pattern: false
-      parallax: false
+      pattern: true
+      parallax: true
       overlay: null
-      blur: false
+      blur: true
     video:
-      url_path: /upload/image/png/1549924395001_url_path_open_envelope.png
+      url_path: /upload/image/jpeg/1554850859079_url_path_john-doe.jpg
       type: null
       posterurl_path: upload/text/csv/1549048618029_posterurl_path_surveys (7).csv
   sectioncolor: null
@@ -27,4 +27,6 @@ cta:
   subtext: null
 
 ---
+
+
 
