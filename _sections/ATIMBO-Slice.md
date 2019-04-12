@@ -3,14 +3,14 @@ location: asdf
 head:
   title: asdf
   subtitle: asdf
-  img_path: /upload/image/jpeg/1554136280951_img_path_rsz_head_shot.jpg
+  img_path: /upload/image/png/1555101752224_img_path_tim-square.png
 style:
   id: asdf
   class: asdf
   font_color: asdf
   media:
     img:
-      url_path: /upload/image/jpeg/1555101664608_url_path_rsz_head_shot.jpg
+      url_path: /upload/image/png/1555101763794_url_path_tim-square.png
       pattern: ad
       parallax: asdf
       overlay: asdf
@@ -32,6 +32,8 @@ cta:
   subtext: asdf
 
 ---
+
+
 
 
 
