@@ -10,20 +10,20 @@ style:
   font_color: asdf
   media:
     img:
-      url_path: asdf
+      url_path: /upload/image/jpeg/1555101664608_url_path_rsz_head_shot.jpg
       pattern: ad
       parallax: asdf
       overlay: asdf
       blur: asdf
     video:
-      url_path: asdf
+      url_path: null
       type: asdf
-      posterurl_path: asdf
+      posterurl_path: null
   tint_color: 'rgba(0,0,0,0.0)'
 start_time: '00:00'
 something_boolean: true
 _date: asdf
-file_path: asdf
+file_path: null
 cta:
   headline: asdf
   btnText: asdf
@@ -32,3 +32,5 @@ cta:
   subtext: asdf
 
 ---
+
+
