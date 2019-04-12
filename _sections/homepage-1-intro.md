@@ -5,13 +5,13 @@ head:
   subtitle: >-
     Welcome to your story, backed by the most robust static publishing platform
     ever created.
-  img_path: upload/image/jpeg/1519092159836_img_path_20161210_113915.jpg
+  img_path: null
 style:
   id: hero
   class: jumbotron image-tagline bgclear fullscreen
   media:
     img:
-      url_path: upload/application/pdf/1548459809957_url_path_IdCard (1).pdf
+      url_path: null
       pattern: true
       parallax: false
       overlay: dark
@@ -30,11 +30,4 @@ cta:
   subtext: null
 
 ---
-
-
-
-markdown
-
-
-
-lkjlkj
+<p>markdown lkjlkj</p>
