@@ -16,14 +16,14 @@ style:
       overlay: asdf
       blur: asdf
     video:
-      url_path: null
+      url_path: /upload/image/png/1555102268899_url_path_boldbetties.png
       type: asdf
-      posterurl_path: null
+      posterurl_path: /upload/image/png/1555102275399_posterurl_path_boldbetties.png
   tint_color: 'rgba(0,0,0,0.0)'
 start_time: '00:00'
 something_boolean: true
 _date: asdf
-file_path: null
+file_path: /upload/image/png/1555102286031_file_path_boldbetties.png
 cta:
   headline: asdf
   btnText: asdf
@@ -32,6 +32,8 @@ cta:
   subtext: asdf
 
 ---
+
+
 
 
 
