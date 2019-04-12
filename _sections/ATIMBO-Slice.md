@@ -32,10 +32,3 @@ cta:
   subtext: asdf
 
 ---
-
-
-
-
-
-
-
