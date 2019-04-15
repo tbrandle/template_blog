@@ -100,6 +100,5 @@ recommendations:
     image-2: null
 
 ---
-
 <p>asdfasdfasfdsafdasfd</p>
-
+<p>This should give me an alert that the build is complete</p>
