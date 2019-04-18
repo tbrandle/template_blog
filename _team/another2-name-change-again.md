@@ -11,10 +11,4 @@ github: null
 linkedin: null
 
 ---
-
-
-
-<p>body of content</p>
-
-
-
+<p>body of content asdfjklasdjflk</p>
