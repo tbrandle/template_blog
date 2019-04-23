@@ -14,6 +14,5 @@ linkedin: null
 youtube: null
 
 ---
-
-
-## this is a header?
+<p><strong>## this is a header?</strong></p>
+<p>this should work.</p>
