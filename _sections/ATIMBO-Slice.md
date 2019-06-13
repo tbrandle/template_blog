@@ -1,5 +1,5 @@
 ---
-location: asdf
+location: asdftest
 head:
   title: asdf
   subtitle: asdf
@@ -14,7 +14,7 @@ style:
       pattern: ad
       parallax: asdf
       overlay: asdf
-      blur: asdf
+      blur: asdftest
     video:
       url_path: /upload/image/png/1555102268899_url_path_boldbetties.png
       type: asdf
@@ -32,6 +32,8 @@ cta:
   subtext: asdf
 
 ---
+
+
 
 
 
