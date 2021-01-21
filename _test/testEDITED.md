@@ -76,16 +76,17 @@ recommendations:
       appropriate.
     content: >-
       Many of the commercial areas in the Brooks Area Regional Center are
-      aging.  This makes them vulnerable to decline and displacement if land use
-      measures are not in place to encourage business retention, property
-      maintenance, renovation and adaptive re-use.  Maintaining existing
-      businesses and commercial areas promotes stability in property values for
-      the area and ensures adequate commercial and employment accessibility for
-      the surrounding neighborhoods. Encouraging and supporting higher-intensity
-      development and a mix of uses through Mixed-Use land use designations can
-      support these goals. Measures that accommodate revitalization efforts and
-      business vitality should be employed in commercial areas where
-      preservation of existing businesses of value to the community.
+      aging.  asdfdsfThis makes them vulnerable to decline and displacement if
+      land use measures are not in place to encourage business retention,
+      property maintenance, renovation and adaptive re-use.  Maintaining
+      existing businesses and commercial areas promotes stability in property
+      values for the area and ensures adequate commercial and employment
+      accessibility for the surrounding neighborhoods. Encouraging and
+      supporting higher-intensity development and a mix of uses through
+      Mixed-Use land use designations can support these goals. Measures that
+      accommodate revitalization efforts and business vitality should be
+      employed in commercial areas where preservation of existing businesses of
+      value to the community.
     image: null
     image-2: null
 
